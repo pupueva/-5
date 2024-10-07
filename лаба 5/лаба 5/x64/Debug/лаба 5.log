@@ -1,0 +1,19 @@
+﻿  лаба 5.c
+C:\Users\student\source\repos\лаба 5\лаба 5.c(34,2): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\source\repos\лаба 5\лаба 5.c(35,2): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\source\repos\лаба 5\лаба 5.c(37,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(47,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(48,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(49,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(74,8): error C2086: float x: переопределение
+      C:\Users\student\source\repos\лаба 5\лаба 5.c(44,8):
+       см. объявление "x"
+  
+C:\Users\student\source\repos\лаба 5\лаба 5.c(74,11): error C2086: float y: переопределение
+      C:\Users\student\source\repos\лаба 5\лаба 5.c(44,11):
+       см. объявление "y"
+  
+C:\Users\student\source\repos\лаба 5\лаба 5.c(79,62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(53,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(54,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\student\source\repos\лаба 5\лаба 5.c(55,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
